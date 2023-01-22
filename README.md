@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é um projeto para rastrear os hábitos!
 
+- [Visite o projeto online](https://us3r06.github.io/nlw-setup-Habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/9rQEdJvmxFAHRbcgKXVbvB/Habits-(e)-(Community)?node-id=6%3A910&t=2J6ZNbmir3OoHcCw-0https://www.figma.com/community/file/1187422022288947321>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
